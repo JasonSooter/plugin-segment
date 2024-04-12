@@ -12,15 +12,15 @@
     "predeploy": "npm run build"
   },
   "dependencies": {
-    "@twilio-labs/serverless-runtime-types": "^1.1",
-    "@twilio/runtime-handler": "1.2.5",
+    "@twilio-labs/serverless-runtime-types": "^4.0",
+    "@twilio/runtime-handler": "2.0.2",
     "node-fetch": "^2.6.6",
-    "twilio": "^3.56"
+    "twilio": "^5.0"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.6.2",
     "copyfiles": "^2.2.0",
-    "twilio-run": "^3.4.5",
+    "twilio-run": "^4.0.2",
     "typescript": "^4"
   },
   "engines": {
